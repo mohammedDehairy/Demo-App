@@ -6,7 +6,7 @@
 //
 
 import SwiftUI
-@_exported import AdyenDropIn
+import AdyenDropIn
 
 struct ContentView: View {
     var body: some View {
