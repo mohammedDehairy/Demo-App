@@ -1,0 +1,11 @@
+framework module AdyenDropIn {
+  umbrella header "AdyenDropIn.h"
+
+  export *
+  module * { export * }
+}
+
+module AdyenDropIn.Swift {
+  header "AdyenDropIn-Swift.h"
+  requires objc
+}

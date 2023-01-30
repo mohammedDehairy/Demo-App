@@ -1,0 +1,11 @@
+framework module AdyenSwiftUI {
+  umbrella header "AdyenSwiftUI.h"
+
+  export *
+  module * { export * }
+}
+
+module AdyenSwiftUI.Swift {
+  header "AdyenSwiftUI-Swift.h"
+  requires objc
+}

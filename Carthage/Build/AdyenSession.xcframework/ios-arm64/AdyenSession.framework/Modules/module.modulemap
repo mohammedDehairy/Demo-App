@@ -1,0 +1,11 @@
+framework module AdyenSession {
+  umbrella header "AdyenSession.h"
+
+  export *
+  module * { export * }
+}
+
+module AdyenSession.Swift {
+  header "AdyenSession-Swift.h"
+  requires objc
+}

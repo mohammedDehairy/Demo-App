@@ -1,0 +1,131 @@
+{
+  "commitish" : "5.0.0",
+  "iOS" : [
+    {
+      "swiftToolchainVersion" : "5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)",
+      "hash" : "fd3821339c4a89471f3fefc156a6aec5309da2eae1247cd862cf52c1d95b547d",
+      "name" : "Adyen",
+      "container" : "Adyen.xcframework",
+      "identifier" : "ios-arm64"
+    },
+    {
+      "swiftToolchainVersion" : "5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)",
+      "hash" : "214c349322765dd2930a10aa61c949e6b4759627ec4b0a20845c8ad862261419",
+      "name" : "Adyen",
+      "container" : "Adyen.xcframework",
+      "identifier" : "ios-x86_64-simulator"
+    },
+    {
+      "swiftToolchainVersion" : "5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)",
+      "hash" : "615c6af5043ea69ce6a8d00016c7d3a15b79e3bb6f1cdb6ebb65daa2bcc7ac42",
+      "name" : "AdyenActions",
+      "container" : "AdyenActions.xcframework",
+      "identifier" : "ios-arm64"
+    },
+    {
+      "swiftToolchainVersion" : "5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)",
+      "hash" : "41f98749155f03b2e9950e3702ff0174e9394d9dc07912bcd15241afa2a58ebb",
+      "name" : "AdyenActions",
+      "container" : "AdyenActions.xcframework",
+      "identifier" : "ios-x86_64-simulator"
+    },
+    {
+      "swiftToolchainVersion" : "5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)",
+      "hash" : "1f5a3018d741f86211b59dbffb9060ba375480eab91f32ad053ae7cb5ced7d54",
+      "name" : "AdyenCard",
+      "container" : "AdyenCard.xcframework",
+      "identifier" : "ios-arm64"
+    },
+    {
+      "swiftToolchainVersion" : "5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)",
+      "hash" : "5bf5fc63b2a2d7ecdd9df07e1ea0d82674deb22aef5fdfb0c9daf8302d02c38e",
+      "name" : "AdyenCard",
+      "container" : "AdyenCard.xcframework",
+      "identifier" : "ios-x86_64-simulator"
+    },
+    {
+      "swiftToolchainVersion" : "5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)",
+      "hash" : "014349c107d3dd8c18b399610cb9b485b97032e80cd19074cc01fa78f0b1f584",
+      "name" : "AdyenComponents",
+      "container" : "AdyenComponents.xcframework",
+      "identifier" : "ios-x86_64-simulator"
+    },
+    {
+      "swiftToolchainVersion" : "5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)",
+      "hash" : "5f1ba166c2157e5a35fde4e65ca681293050028d393dbcc921675d0c135853c1",
+      "name" : "AdyenComponents",
+      "container" : "AdyenComponents.xcframework",
+      "identifier" : "ios-arm64"
+    },
+    {
+      "swiftToolchainVersion" : "5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)",
+      "hash" : "e24e8499117e5e4fcf1249dd31a92d07b52cd52fbdfc79e3ec3b7c799f9952be",
+      "name" : "AdyenDropIn",
+      "container" : "AdyenDropIn.xcframework",
+      "identifier" : "ios-arm64"
+    },
+    {
+      "swiftToolchainVersion" : "5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)",
+      "hash" : "c8ef7e022802ff4f483a968fc7dd4a419f261e8ad853466b7a4ff21e37565a31",
+      "name" : "AdyenDropIn",
+      "container" : "AdyenDropIn.xcframework",
+      "identifier" : "ios-x86_64-simulator"
+    },
+    {
+      "swiftToolchainVersion" : "5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)",
+      "hash" : "0841d798262e9f0c77139eca378e133e6aaee7217b45cba3d92cad7e34d0f894",
+      "name" : "AdyenEncryption",
+      "container" : "AdyenEncryption.xcframework",
+      "identifier" : "ios-arm64"
+    },
+    {
+      "swiftToolchainVersion" : "5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)",
+      "hash" : "0a0619e27114bd40d86135f8d1f42e988b06c16c60b243d5592df7376182e879",
+      "name" : "AdyenEncryption",
+      "container" : "AdyenEncryption.xcframework",
+      "identifier" : "ios-x86_64-simulator"
+    },
+    {
+      "swiftToolchainVersion" : "5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)",
+      "hash" : "9ae06731c7966325e8a72575d2bfdd4c46bc33f2f117ededbb6090b9272d857a",
+      "name" : "AdyenSession",
+      "container" : "AdyenSession.xcframework",
+      "identifier" : "ios-x86_64-simulator"
+    },
+    {
+      "swiftToolchainVersion" : "5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)",
+      "hash" : "2921333971018861a8be56b4c97ddd7df28c369fc844c75368b7bda5749b3905",
+      "name" : "AdyenSession",
+      "container" : "AdyenSession.xcframework",
+      "identifier" : "ios-arm64"
+    },
+    {
+      "swiftToolchainVersion" : "5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)",
+      "hash" : "30d6f75736de3fcdf217294b1e2841dba0eca06368cbf78aa20e12f61e094484",
+      "name" : "AdyenSwiftUI",
+      "container" : "AdyenSwiftUI.xcframework",
+      "identifier" : "ios-arm64"
+    },
+    {
+      "swiftToolchainVersion" : "5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)",
+      "hash" : "c393f40220d56bc0c7db05fc6da5bdb326b3e3573df909e9ce48915793bd386c",
+      "name" : "AdyenSwiftUI",
+      "container" : "AdyenSwiftUI.xcframework",
+      "identifier" : "ios-x86_64-simulator"
+    },
+    {
+      "swiftToolchainVersion" : "5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)",
+      "hash" : "46eaac5c1aafc5d0cf8b248951a54f4765224939ef55d04e9df4cd0b01239364",
+      "name" : "AdyenWeChatPay",
+      "container" : "AdyenWeChatPay.xcframework",
+      "identifier" : "ios-x86_64-simulator"
+    },
+    {
+      "swiftToolchainVersion" : "5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)",
+      "hash" : "6ca370ea186f522758458e30033bffc604a54e609dd15886ee4955b5966ae25a",
+      "name" : "AdyenWeChatPay",
+      "container" : "AdyenWeChatPay.xcframework",
+      "identifier" : "ios-arm64"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+framework module AdyenActions {
+  umbrella header "AdyenActions.h"
+
+  export *
+  module * { export * }
+}
+
+module AdyenActions.Swift {
+  header "AdyenActions-Swift.h"
+  requires objc
+}

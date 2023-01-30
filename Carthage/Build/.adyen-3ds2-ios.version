@@ -1,0 +1,32 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "2.3.0",
+  "iOS" : [
+    {
+      "hash" : "dc0fe4af52aa39adb357e26882c0d49b8be72487b552e3e8c5f7dae7416cc1af",
+      "name" : "Adyen3DS2",
+      "container" : "Adyen3DS2.xcframework",
+      "identifier" : "ios-arm64_x86_64-maccatalyst"
+    },
+    {
+      "hash" : "a028dd994773f644c4d224f491793e56ed4920532594d08b2935da882fa75ecf",
+      "name" : "Adyen3DS2",
+      "container" : "Adyen3DS2.xcframework",
+      "identifier" : "ios-arm64_i386_x86_64-simulator"
+    },
+    {
+      "hash" : "9cfcec17bc189bb6f4aae516f7a1aeabfe3d2f6b118937ad928727d955d3d868",
+      "name" : "Adyen3DS2",
+      "container" : "Adyen3DS2.xcframework",
+      "identifier" : "ios-arm64_armv7"
+    }
+  ]
+}

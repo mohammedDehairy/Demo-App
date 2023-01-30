@@ -1,0 +1,11 @@
+framework module AdyenEncryption {
+  umbrella header "AdyenEncryption.h"
+
+  export *
+  module * { export * }
+}
+
+module AdyenEncryption.Swift {
+  header "AdyenEncryption-Swift.h"
+  requires objc
+}

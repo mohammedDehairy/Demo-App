@@ -1,0 +1,28 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "2.1.0",
+  "iOS" : [
+    {
+      "swiftToolchainVersion" : "5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)",
+      "hash" : "4f7e5b223c9cd8600d4110be906a9ed691f896aef9231e680c9da9867c94a96d",
+      "name" : "AdyenWeChatPayInternal",
+      "container" : "AdyenWeChatPayInternal.xcframework",
+      "identifier" : "ios-arm64_i386_x86_64-simulator"
+    },
+    {
+      "swiftToolchainVersion" : "5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)",
+      "hash" : "881b6a2ca85cf1849e02191760e15e126925659a5fd7892f894ae4c2a8ee4a72",
+      "name" : "AdyenWeChatPayInternal",
+      "container" : "AdyenWeChatPayInternal.xcframework",
+      "identifier" : "ios-arm64_armv7"
+    }
+  ]
+}

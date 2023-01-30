@@ -1,0 +1,11 @@
+framework module AdyenCard {
+  umbrella header "AdyenCard.h"
+
+  export *
+  module * { export * }
+}
+
+module AdyenCard.Swift {
+  header "AdyenCard-Swift.h"
+  requires objc
+}

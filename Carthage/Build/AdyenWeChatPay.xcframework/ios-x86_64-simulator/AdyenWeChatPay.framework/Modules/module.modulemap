@@ -1,0 +1,11 @@
+framework module AdyenWeChatPay {
+  umbrella header "AdyenWeChatPay.h"
+
+  export *
+  module * { export * }
+}
+
+module AdyenWeChatPay.Swift {
+  header "AdyenWeChatPay-Swift.h"
+  requires objc
+}

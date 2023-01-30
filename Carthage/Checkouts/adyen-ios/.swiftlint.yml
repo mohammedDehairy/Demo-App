@@ -1,0 +1,21 @@
+disabled_rules:
+  - trailing_whitespace
+  - nesting
+  - todo
+
+opt_in_rules:
+  - explicit_acl
+
+excluded:
+  - Tests
+  - Internal
+  - Docs
+  - Demo
+  - Package.swift
+  - DerivedData
+  - Carthage
+
+line_length:
+  ignores_function_declarations: true
+  ignores_urls: true
+  warning: 140

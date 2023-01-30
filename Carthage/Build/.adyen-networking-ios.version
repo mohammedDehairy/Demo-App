@@ -1,0 +1,19 @@
+{
+  "commitish" : "1.0.0",
+  "iOS" : [
+    {
+      "swiftToolchainVersion" : "5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)",
+      "hash" : "064f945274135b1559d28a71019a4c1127ca4c90b8f8efd51b9995422e30b4de",
+      "name" : "AdyenNetworking",
+      "container" : "AdyenNetworking.xcframework",
+      "identifier" : "ios-x86_64-simulator"
+    },
+    {
+      "swiftToolchainVersion" : "5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)",
+      "hash" : "b55d494c864e1ac59bdf14afd2b842669e72fa9ab9d89faa714334412c9c9426",
+      "name" : "AdyenNetworking",
+      "container" : "AdyenNetworking.xcframework",
+      "identifier" : "ios-arm64"
+    }
+  ]
+}

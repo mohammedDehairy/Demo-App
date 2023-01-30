@@ -1,0 +1,11 @@
+framework module AdyenComponents {
+  umbrella header "AdyenComponents.h"
+
+  export *
+  module * { export * }
+}
+
+module AdyenComponents.Swift {
+  header "AdyenComponents-Swift.h"
+  requires objc
+}
